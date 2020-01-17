@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/pounat/bamazon#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "inquirer": "^7.0.3",
     "mysql": "^2.17.1"
   }
