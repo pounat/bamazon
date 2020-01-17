@@ -9,3 +9,4 @@
 * The table will show again with an updated inventory and ask you to choice again what to buy.
 
 ![screenshot](/images/screenshot.png)
+![screenshot](/images/screenshot2.png)
